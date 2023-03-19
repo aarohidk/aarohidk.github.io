@@ -2206,7 +2206,7 @@ div.icon-text {
 }
 
 .image img.is-rounded {
-  border-radius: 9999px;
+  border-radius: 50%;
 }
 
 .image.is-fullwidth {
@@ -11784,7 +11784,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 
 @media screen and (min-width: 769px), print {
   .hero-body {
-    padding: 3rem 3rem;
+    padding: 2rem 2rem;
   }
 }
 

@@ -12,18 +12,18 @@
     
         <div class="hero-body">
             <div class="container has-text-centered is-centered">
-                <h1 class="title is-1">
-                  {{ page.title | escape }}
-                </h1>
-                <p class="subtitle">
-                  {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
-                  {{ page.date | date: date_format }}
-                </p>
+              <h1 class="title is-1" style="font-size: 2rem";>
+                Portfolio
+              </h1>  
+        <div class="responsive-wrap" style=".responsive-wrap iframe{ max-width: 100%;};margin:auto">
+          <!-- this is the embed code provided by Google -->
+          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFRx9MiTZEwepWwRI9-KphTA2yh0m7nloExCchQUiBIfQhi8k_OIhnuzB68aFCIQqu7pmdx929DG71/embed?start=true&loop=true&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+          <!-- Google embed ends -->
+          </div>
               </div>
         </div>
     </section>
 
-    <div class="post-content"> {{content}} </div>
 
 
 
