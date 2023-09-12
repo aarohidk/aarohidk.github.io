@@ -20,7 +20,7 @@ optional info list (delete if not using):
 
 {:.list-inline} 
 - January 2023 – May 2023
-- Tools/Technologies/Skills: Excel, Sawtooth, MTurk, Data Analysis & Visualization, Teamwork, Client Communications
+- Tools/Technologies/Skills: Excel, Sawtooth, MTurk, Data Analysis & Visualization, Sensitivity Analysis, Consumer Behavior Analysis, Teamwork, Client Communications
 
 
 
