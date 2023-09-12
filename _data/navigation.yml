@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Experience"
       section: timeline
     - title: "Resume"
-      section: (Resume)[https://drive.google.com/file/d/1TdegPAFcpYLnxVK8D4JXABbolPVn7ile/view?usp=sharing] 
+      section: https://drive.google.com/file/d/1TdegPAFcpYLnxVK8D4JXABbolPVn7ile/view?usp=sharing
 
 en-US:
   <<: *DEFAULT_EN
