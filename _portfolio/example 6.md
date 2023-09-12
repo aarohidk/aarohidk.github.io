@@ -15,6 +15,6 @@ Mimics Credential ID 1bb9-b308-9858-b843
 
 
 {:.list-inline} 
-- January - March 2022
-- Tools/Technologies/Skills: Materialise Mimics Innovation Suite, 3D Slicer, Medical Additive Manufacturing
+- **January - March 2022**
+- **Tools/Technologies/Skills:** Materialise Mimics Innovation Suite, 3D Slicer, Medical Additive Manufacturing
 
