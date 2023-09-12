@@ -24,4 +24,4 @@ optional info list (delete if not using):
 {:.list-inline} 
 - Aug 2021 – April 2022
 - Tools/Technologies/Skills: 3D Printing/Additive Manufacturing, Solidworks, Mobile Application Design & Development, Medical Device Development, Clinical Testing & Validation 
-
+- Image Courtesy: C3 Med-Tech Pvt. Ltd., India
