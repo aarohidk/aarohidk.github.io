@@ -1,22 +1,23 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Machine Learning for Autism Diagnosis
+  subtitle: Carnegie Mellon University
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Implementing Machine Learning for Autism Diagnosis
+subtitle: Carnegie Mellon University
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+Utilized Logistic Regression with cross-validation for data pre-processing and Artificial Neural Networks to determine the optimal 
+algorithm for autism spectrum disorder classification based on model evaluation metrics.
 
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- October 2022 – December 2022
+- Tools/Technologies/Skills: Python, Pandas, NumPy, SciKit Learn 
+ 
 
