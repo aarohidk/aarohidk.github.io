@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Product Roadmap Development 
-  subtitle: Computational Engineering & RObotics Laboratory, CMU
+  subtitle: Computational Engineering & Robotics Laboratory, CMU
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
@@ -20,6 +20,6 @@ optional info list (delete if not using):
 {:.list-inline} 
 - Auguest 2022 – Auguest 2023
 - Tools/Technologies/Skills: ANSYS, Mesheditor (CERLAB program), Fusion 360, Python, Literature Survey, Comparative Analysis, Sensitivty Analysis
- 
+   
  
 
