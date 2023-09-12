@@ -11,14 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hello! I am 
+   
     text: Aarohi Kapadia
     button: Email
     buttonlink: "aarohi@cmu.edu"
     button: About Me
     buttonlink: "#services"
-    button: LinkedIn
-    buttonlink: "https://www.linkedin.com/in/aarohikapadia/"
+    social: 
+      - url: mailto:aarohi@cmu.edu
+        icon: "fas fa-envelope"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      
 
   services:
     title: "About Me"
@@ -27,14 +31,13 @@ en: &DEFAULT_EN
     list:
       - title: "Graduate Student"
         desc: "Dual master's degree student at Carnegie Mellon University with a strong foundation in Engineering and Technology Innovation Management and Biomedical Engineering."
-        icon: fas fa-shopping-cart #replace with CMU icon
+        icon: fas fa-graduation-cap #replace with CMU icon
       - title: "Research, Development & Innovation"
         desc: "Adept at optimizing product development lifecycles and engineering innovation strategies. My vision is to bridge the gap between technological advancement and business success."
         icon: fas fa-laptop #replace or maybe it is fine??
       - title: "Biomedical Engineering" 
         desc: "Creating socially conscious solutions by merging theoretical design and engineering concepts of medical devices with a deep understanding of the sociological and economic dimensions of healthcare."
-        icon: fab fa-markdown
-
+        icon: fas fa-industry
   portfolio:
     title: "Portfolio"
     text: "A collection of my academic/professional works & experiences"
@@ -80,7 +83,6 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: ""
 
   
 
