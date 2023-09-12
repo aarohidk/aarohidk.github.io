@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Telemedicine based Neonatal Ophthalmic Device
   subtitle: C3 Med-Tech Pvt. Ltd., India
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/neonatal.jpeg
   
 #what displays when the item is clicked:
 title: Undergraduate Industrial Capstone Project
 subtitle: Telemedicine based Neonatal Ophthalmic Device at C3 Med-Tech Pvt. Ltd., India
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/c3_1.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
@@ -17,9 +17,6 @@ alt: image alt text
 
 
 
-
-
-optional info list (delete if not using):
 
 {:.list-inline} 
 - Aug 2021 – April 2022

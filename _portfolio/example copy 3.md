@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Machine Learning for Autism Diagnosis
   subtitle: Carnegie Mellon University
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/ml_autism.jpg
   
 #what displays when the item is clicked:
 title: Implementing Machine Learning for Autism Diagnosis
 subtitle: Carnegie Mellon University
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/ml_autism.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
