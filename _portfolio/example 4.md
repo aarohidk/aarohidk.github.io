@@ -1,21 +1,26 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Health Hazard Analysis Tool for Divers 
+  subtitle: Maritime Research Center, India
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Health Hazard Analysis Tool for Divers
+subtitle: Maritime Research Center, India
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+DOI: <https://doi.org/10.1109/OCEANSChennai45887.2022.9775220> 
+•	Designed and implemented an automated health hazard analysis tool for divers, utilizing Indian Ocean Region acoustic ecology. The tool generates health hazard reports and noise maps to monitor underwater acoustic levels, aiding in safe dive site selection and acoustic protective equipment decisions.
+•	Led diverse research, including surveys, data analysis, and a thorough hyperbaric medicine literature review in collaboration with medical experts.
+• Policy proposal to update diving regulations to include underwater noise exposure.  
+
+
 
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- October 2020 – February 2022 
+- Tools/Technologies/Skills: Python, QGIS, Graphical User Interface development, Data Analysis, Literature Review, Policy Review 
+
