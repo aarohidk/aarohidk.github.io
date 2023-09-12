@@ -22,7 +22,7 @@ alt: image alt text
 
 
 {:.list-inline} 
-- August 2023 - Present
-- Tools/Technologies/Skills: Python, Dashboard Creation, PowerBI, Generative AI, Data Analysis, Teamwork
+- **August 2023 - Present**
+- **Tools/Technologies/Skills:** Python, Dashboard Creation, PowerBI, Generative AI, Data Analysis, Teamwork
 
 
