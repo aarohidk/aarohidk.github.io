@@ -60,7 +60,8 @@ en: &DEFAULT_EN
         alt:
       - title: "Master of Science: Biomedical Engineering <br> Master of Science: Engineering & Technology Innovation Management"
         year: "2022-2024"
-        desc: "Carnegie Mellon University, USA <br> Relevant Coursework: Strategy & Management of Technical Innovation, Interactive Data Science, Quantitative Entrepreneurship, Introduction to Machine Learning, Product Management, Financial Analysis for Managers, Business Marketing & Strategy"    image: assets/img/timeline/2.jpg
+        desc: "Carnegie Mellon University, USA <br> Relevant Coursework: Strategy & Management of Technical Innovation, Interactive Data Science, Quantitative Entrepreneurship, Introduction to Machine Learning, Product Management, Financial Analysis for Managers, Business Marketing & Strategy"    
+        image: assets/img/timeline/2.jpg
         alt:
       - title: "Research Engineer"
         year: "2020-2022"
