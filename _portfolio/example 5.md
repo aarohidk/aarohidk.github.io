@@ -1,21 +1,27 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Telemedicine based Neonatal Ophthalmic Device
+  subtitle: C3 Med-Tech Pvt. Ltd., India
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Undergraduate Industrial Capstone Project
+subtitle: Telemedicine based Neonatal Ophthalmic Device at C3 Med-Tech Pvt. Ltd., India
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+• Devised hardware based on principle of Indirect Ophthalmoscopy integrated with a telemedicine module to enable at-home screening service and storage of diagnostic data for neonatal ophthalmic screening.  
+• Designed the hardware in SolidWorks, fabrication via 3D – printing and, prototype testing & validation in partnership with a local hospital and in-house optometrists. 
+• Low cost device to improve access to eye screening and early diagnosis of eye diseases in premature babies in low resource & rural areas. 
+
+
+
+
 
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- Aug 2021 – April 2022
+- Tools/Technologies/Skills: 3D Printing/Additive Manufacturing, Solidworks, Mobile Application Design & Development, Medical Device Development, Clinical Testing & Validation 
+
