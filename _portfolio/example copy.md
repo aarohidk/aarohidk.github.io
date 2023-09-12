@@ -12,15 +12,16 @@ alt: image alt text
 
 ---
 •	Assessing economic viability of commercializing haptic gloves for virtual reality. Strategizing recommendations for product process decisions such as manufacturing location, implementing automation & supplier choices via sensitivity analysis. 
+
 •	Created a virtual model of the manufacturing facility to optimize mass production of the technology, including estimating production costs, identifying cost drivers, and proposing opportunities for cost reduction and process improvement.
+
 •	Development and execution of a choice-based conjoint survey targeting potential customers, enabling precise estimation of demand and identification of key demand drivers
 
 
-optional info list (delete if not using):
 
 {:.list-inline} 
-- January 2023 – May 2023
-- Tools/Technologies/Skills: Excel, Sawtooth, MTurk, Data Analysis & Visualization, Sensitivity Analysis, Consumer Behavior Analysis, Teamwork, Client Communications
+- **January 2023 – May 2023**
+- **Tools/Technologies/Skills:** Excel, Sawtooth, MTurk, Data Analysis & Visualization, Sensitivity Analysis, Consumer Behavior Analysis, Teamwork, Client Communications
 
 
 
