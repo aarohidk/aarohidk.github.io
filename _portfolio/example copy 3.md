@@ -11,13 +11,11 @@ image: assets/img/portfolio/ml_autism.jpg #main image, can be a link or a file i
 alt: image alt text
 
 ---
-Utilized Logistic Regression with cross-validation for data pre-processing and Artificial Neural Networks to determine the optimal 
-algorithm for autism spectrum disorder classification based on model evaluation metrics.
+Utilized Logistic Regression with cross-validation for data pre-processing and Artificial Neural Networks to determine the optimal algorithm for autism spectrum disorder classification based on model evaluation metrics.
 
-optional info list (delete if not using):
 
 {:.list-inline} 
-- October 2022 – December 2022
-- Tools/Technologies/Skills: Python, Pandas, NumPy, SciKit Learn 
+- **October 2022 – December 2022**
+- **Tools/Technologies/Skills:** Python, Pandas, NumPy, SciKit Learn 
  
 
