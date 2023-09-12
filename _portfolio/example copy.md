@@ -1,22 +1,26 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: ExamRadople
-  subtitle: subtitle
+  title: Analysis for New Technology Commercialization
+  subtitle: Carnegie Mellon University
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: 19-670 Quantitative Entrepreneurship Course Project
+subtitle: Analysis for VR Haptic Gloves Technology Commercialization
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+•	Assessing economic viability of commercializing haptic gloves for virtual reality. Strategizing recommendations for product process decisions such as manufacturing location, implementing automation & supplier choices via sensitivity analysis. 
+•	Created a virtual model of the manufacturing facility to optimize mass production of the technology, including estimating production costs, identifying cost drivers, and proposing opportunities for cost reduction and process improvement.
+•	Development and execution of a choice-based conjoint survey targeting potential customers, enabling precise estimation of demand and identification of key demand drivers
+
 
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- January 2023 – May 2023
+- Tools/Technologies/Skills: Excel, Sawtooth, MTurk, Data Analysis & Visualization, Teamwork, Client Communications
+
+
 
