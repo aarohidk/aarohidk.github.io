@@ -31,8 +31,8 @@ en: &DEFAULT_EN
       - title: "Research, Development & Innovation"
         desc: "Adept at optimizing product development lifecycles and engineering innovation strategies. My vision is to bridge the gap between technological advancement and business success."
         icon: fas fa-laptop #replace or maybe it is fine??
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)" #skills or resume?
-        desc: "Your description here, full **Markdown** support"
+      - title: "Biomedical Engineering" 
+        desc: "Creating socially conscious solutions by merging theoretical design and engineering concepts of medical devices with a deep understanding of the sociological and economic dimensions of healthcare."
         icon: fab fa-markdown
 
   portfolio:
@@ -42,7 +42,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: " Timeline" #Resume maybe?
+    title: "Experience" #Resume maybe?
     text: "Academic & Professional Journey"
     section: timeline
     # left is the default
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Medical Data Analyst"
-        year: "2020 (February - November)"
+        year: "2020 (Feb - Nov)"
         desc: "ezDI Inc - Healthcare solutions"
         image: assets/img/timeline/4.jpg
         alt:
