@@ -11,34 +11,34 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Hello! I am 
+    text: Aarohi Kapadia
+    button: About Me
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "About Me"
+    text: "Dedicated to fostering innovation and optimizing strategic management."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Graduate Student"
+        desc: "Dual master's degree student at Carnegie Mellon University with a strong foundation in Engineering and Technology Innovation Management and Biomedical Engineering."
+        icon: fas fa-shopping-cart #replace with CMU icon
+      - title: "Research, Development & Innovation"
+        desc: "Adept at optimizing product development lifecycles and engineering innovation strategies. My vision is to bridge the gap between technological advancement and business success."
+        icon: fas fa-laptop #replace or maybe it is fine??
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)" #skills or resume?
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "A collection of my academic/professional works & experiences"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Timeline" #Resume maybe?
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
