@@ -14,7 +14,7 @@ alt: image alt text
 
 •	Researching, designing, and proposing Generative AI solutions for PPG, delivering insights into potential efficiency gains, cost savings, and growth opportunities. 
 
-•	Applying innovation management principles to ideate and execute innovative strategies, while conducting extensive primary and secondary research to benchmark Generative AI implementation in diverse j.
+•	Applying innovation management principles to ideate and execute innovative strategies, while conducting extensive primary and secondary research to benchmark Generative AI implementation in diverse job functions within PPG.
 
 •	Developing change management strategies to facilitate the adoption of cutting-edge computer science technologies within PPG, addressing corporate culture shifts and fostering acceptance of advanced AI solutions.
 
