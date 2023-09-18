@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         desc: "**Computational & Engineering Robotics Laboratory, CMU** <br> Developed a comprehensive product development roadmap and conducted a thorough comparative analysis against competing products, enabling a successful soft launch of the designed insole within local medical practices."
         image: assets/img/timeline/cerlab.png
         alt:
-      - title: "Dual Master of Science: *Biomedical Engineering* <br> *Engineering & Technology Innovation Management*"
+      - title: "Dual Master of Science: _Biomedical Engineering_ <br> _Engineering & Technology Innovation Management_"
         year: "2022-2024"
         desc: "**Carnegie Mellon University, USA** <br> *Relevant Coursework:* Strategy & Management of Technical Innovation, Interactive Data Science, Quantitative Entrepreneurship, Introduction to Machine Learning, Product Management, Financial Analysis for Managers, Business Marketing & Strategy"    
         image: assets/img/timeline/cmu.png
