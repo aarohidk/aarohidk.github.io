@@ -17,7 +17,7 @@ DOI: <https://doi.org/10.1109/OCEANSChennai45887.2022.9775220>
 
 •	Led diverse research, including surveys, data analysis, and a thorough hyperbaric medicine literature review in collaboration with medical experts.
 
-• Policy proposal to update diving regulations to include underwater noise exposure.  
+• Policy proposal to update diving regulations to include underwater noise exposure as a hazard.  
 
 
 
